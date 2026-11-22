@@ -1,3 +1,4 @@
+ HEAD
 # 🚀 Krupa Rathod — Interactive AI-Powered Developer Portfolio
 
 > **"Code. Create. Innovate."**  
@@ -223,3 +224,6 @@ videoIntroUrl: "https://www.youtube.com/embed/YOUR_VIDEO_ID"
 - [x] **Digital Business Card**: Generates QR code and exports standard `.vcf` contact file.
 - [x] **Real Data Verification**: Zero fabricated companies, metrics, or credentials. All 6 genuine certificates and 4 live Vercel projects are integrated.
 - [x] **Production Build**: Zero TypeScript errors (`tsc -b && vite build` passed).
+
+# resume
+ 698fefa75e279fddf5a8ab65c9686933498c471d
